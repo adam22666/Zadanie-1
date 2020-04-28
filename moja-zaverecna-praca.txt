@@ -1,1 +1,8 @@
 Automatizované testovanie SQL s využitím rozšírenia VPL v LMS Moodle
+
+Vysoká škola: Univerzita Konštantína Filozofa v Nitre
+Fakulta: Fakulta prírodných viet
+Štúdijný odbor: Aplikovaná informatika
+Autor: Adam Beèka
+Názov bakalárskej práce: Automatizované testovanie SQL s využitím rozšírenia VPL v LMS Moodle
+Školite¾: Mgr. Martin Drlík, PhD.
