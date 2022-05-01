@@ -4,6 +4,6 @@ Vysoká škola: Univerzita Konštantína Filozofa v Nitre
 Fakulta: Fakulta prírodných viet
 Štúdijný odbor: Aplikovaná informatika
 Autor: Adam Bečka
-Názov bakalárskej práce: Automatizované testovanie SQL s využitím rozšírenia VPL v LMS Moodle
-Školiteľ: Mgr. Martin Drlík, PhD.
-Akademický rok: 2020/2021
+Názov bakalárskej práce: Detekcia srdcovej aktivity a monitorovanie srdcovej frekvencie
+Školiteľ: Mgr. Kristián Fodor
+Akademický rok: 2021/2022
